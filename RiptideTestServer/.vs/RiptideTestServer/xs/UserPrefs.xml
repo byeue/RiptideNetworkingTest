@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1CD43E4F-30BB-1EC9-47C7-67DE318C6CD8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Multiplayer/MessageExtensions.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Multiplayer/NetworkManager.cs" Line="7" Column="23" />
+      <File FileName="Assets/Scripts/Player.cs" Line="33" Column="37" />
+      <File FileName="Assets/Scripts/GameLogic.cs" Line="20" Column="10" />
+      <File FileName="Assets/Scripts/Multiplayer/MessageExtensions.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RiptideTestServer" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Multiplayer" expanded="True">
+                  <Node name="MessageExtensions.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8aafa165-fb1f-4c35-9725-6d976510cc6c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
